@@ -3,5 +3,7 @@ Some text
 I will change it here again
 
 function changeIt(x) {
-  return x;  
+  return x;
 }
+
+console.log(changeIt());
